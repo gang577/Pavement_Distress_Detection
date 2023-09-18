@@ -1,0 +1,13 @@
+【yolov4-uniform-dynamic-max7.engine】
+
+Firstly, it needs to be converted to the ONNX format. 
+
+This conversion can be done using existing tools and frameworks such as the darknet to ONNX conversion tool. 
+
+This tool can convert the darknet model to the ONNX format, and it offers configurable conversion options to meet different user requirements. 
+
+Next, converting the ONNX model to a TensorRT engine is another necessary step This conversion can be achieved using the ONNX parser in the TensorRT SDK, which parses the ONNX model into the format required by the TensorRT engine. 
+
+During this process, users can also optimize the model’s performance and accuracy by configuring the parameters of the TensorRT engine. 
+
+By following this model conversion process, the darknet model can be converted into a TensorRT engine, enabling faster and more efficient model inference computations.
