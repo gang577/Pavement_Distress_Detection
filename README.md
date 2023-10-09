@@ -35,4 +35,7 @@ The sample applications require [MetaData Bindings](#metadata_bindings) to work.
 
 <p align="center">
 <img src="images/Jetson Xavier NX Pothole.png" alt="deepstream python app screenshot" height="400px"/>
+<img src="images/Jetson Xavier NX Longitudinal crack.jpg" alt="deepstream python app screenshot" height="400px"/>
+<img src="images/Jetson Xavier NX Transverse crack.jpg" alt="deepstream python app screenshot" height="400px"/>
+<img src="imagesJetson Xavier NX Alligator cracks.jpg" alt="deepstream python app screenshot" height="400px"/>    
 </p>
