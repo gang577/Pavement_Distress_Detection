@@ -25,5 +25,5 @@ DeepStream pipelines can be constructed using Gst Python, the GStreamer framewor
 Python [bindings](bindings) are provided as part of this repository. This module is generated using [Pybind11](https://github.com/pybind/pybind11).
 
 <p align="center">
-<img src=".python-app-pipeline.png" alt="bindings pipeline" height="600px"/>
+<img src=".images/python-app-pipeline.png" alt="bindings pipeline" height="600px"/>
 </p>
