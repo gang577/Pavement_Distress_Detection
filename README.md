@@ -28,6 +28,7 @@ Python [bindings](bindings) are provided as part of this repository. This module
 <img src="images/python-app-pipeline.png" alt="bindings pipeline" height="600px"/>
 </p>
 
-These bindings support a Python interface to the MetaData structures and functions. Usage of this interface is documented in the [HOW-TO Guide](HOWTO.md) and demonstrated in the sample applications.  
+## Sample Applications
 
-<a name="sample_applications"></a>
+Sample applications provided here demonstrate how to work with DeepStream pipelines using Python.  
+The sample applications require [MetaData Bindings](#metadata_bindings) to work.  
