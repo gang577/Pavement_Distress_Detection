@@ -13,8 +13,8 @@ Download the latest release package complete with bindings and sample applicatio
 Please report any issues or bugs on the DeepStream SDK Forums. This enables the DeepStream community to find help at a central location.
 
 - [DeepStream Python Apps](#deepstream-python-apps)
-  - [Python Bindings](#python-bindings)
-  - [Sample Applications](#sample-applications)
+- [Python Bindings](#python-bindings)
+- [Sample Applications](#sample-applications)
 
 Python Bindings
 DeepStream pipelines can be constructed using Gst Python, the GStreamer framework's Python bindings. For accessing DeepStream MetaData, Python bindings are provided as part of this repository. 
@@ -32,3 +32,10 @@ Python [bindings](bindings) are provided as part of this repository. This module
 
 Sample applications provided here demonstrate how to work with DeepStream pipelines using Python.  
 The sample applications require [MetaData Bindings](#metadata_bindings) to work.  
+
+<p align="center">
+<img src="images/Jetson Xavier NX Pothole.png" alt="deepstream python app screenshot" height="400px"/>
+<img src="images/Jetson Xavier NX Longitudinal crack.jpg" alt="deepstream python app screenshot" height="400px"/>
+<img src="images/Jetson Xavier NX Transverse crack.jpg" alt="deepstream python app screenshot" height="400px"/>
+<img src="imagesJetson Xavier NX Alligator cracks.jpg" alt="deepstream python app screenshot" height="400px"/>  
+</p>
